@@ -12,6 +12,7 @@ public class Main {
 
         int e = 8;
         int f = 7;
+        int f = 4;
 
         public void bad(){
 
